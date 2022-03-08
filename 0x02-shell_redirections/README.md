@@ -1,1 +1,1 @@
-# My Readme file for shell redirection
+My file for shell redistribution
